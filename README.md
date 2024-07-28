@@ -1,17 +1,17 @@
-# Keylogger using Python
+**# Keylogger using Python**
 
 This is a simple command-line based keylogger using python in Windows operating sytem only
 
-## Dependencies
+**## Dependencies**
 pynput
 
-## Installation
+**## Installation**
 1. Create a python virtual environment
 ```bash
 python -m venv <name_of_your_virtual_env>
 ```
 
-- Note: Change the <name_of_your_virtual_env> to your name preferences.
+- **Note:** Change the <name_of_your_virtual_env> to your name preferences.
 
 2. Activiate your virtual environment
 ```bash
