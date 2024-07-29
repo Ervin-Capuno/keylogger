@@ -3,3 +3,4 @@ lib/
 Include/
 Scripts/
 pyvenv.cfg
+project/key_log.txt
