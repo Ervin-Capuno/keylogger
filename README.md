@@ -13,7 +13,7 @@ pyGetWindow
 python -m venv <name_of_your_virtual_env>
 ```
 
-- **Note:** Change the <name_of_your_virtual_env> to your name preferences.
+- **Note:** Change the <name_of_your_virtual_env> to your name preferences and remove the "<" ">" symbol.
 
 2. Activiate your virtual environment
 ```bash
