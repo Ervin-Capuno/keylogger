@@ -7,6 +7,8 @@ pynput
 
 pyGetWindow
 
+venv
+
 ## Installation
 1. Create a python virtual environment
 ```bash
@@ -15,7 +17,7 @@ python -m venv <name_of_your_virtual_env>
 
 - **Note:** Change the <name_of_your_virtual_env> to your name preferences and remove the "<" ">" symbol.
 
-2. Activiate your virtual environment
+2. Activate your virtual environment
 ```bash
 ./<name_of_your_virtual_env>/Scripts/Activate
 ```
