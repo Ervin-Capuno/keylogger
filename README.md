@@ -5,6 +5,8 @@ This is a simple command-line based keylogger using python in Windows operating 
 ## Dependencies
 pynput
 
+pyGetWindow
+
 ## Installation
 1. Create a python virtual environment
 ```bash
